@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Impact Youth Digital Hub",
+  "description": "A comprehensive digital platform for youth engagement, featuring sermon libraries, bible study curricula, prayer requests, growth tracking, and community connectivity.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
